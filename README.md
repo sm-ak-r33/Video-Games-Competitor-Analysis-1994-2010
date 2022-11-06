@@ -6,9 +6,9 @@ Using the Video Games - Sales to visualize, make dashboards and find:
 
 Q1.The best-selling "Shooter" on both the "Playstation (PS)" and "Xbox" was "Call of Duty: Black Ops". On which platform did it have the highest sales? "Playstation" or "Xbox"?
 
-![Image1](Image1.jpg)
+![Image1](Images/Image1.jpg)
 
-![Xbox](Image2.jpg)
+![Xbox](Images/Image2.jpg)
 
 Ans: Xbox
 
